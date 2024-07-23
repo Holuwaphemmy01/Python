@@ -1,10 +1,14 @@
-def biggest_odd (number):
-	odd_number = 0
-	for num in (number):
-		new_num = int(num)
-		if new_num % 2 != 0:
-			odd_number = big > 0
-			biggest = odd_number < biggest_odd	
-	return print(biggest)	
+def biggest_odd (numbers):
+	biggest = None
+	for digit in numbers:
+		num = int(digit)
+		if num % 2 != 0:
+			if biggest is None or num > biggest:
+				biggest = num
+
+	return biggest
+
+
 		
-biggest_odd(67839)
+result = biggest_odd("23569")
+print(result)

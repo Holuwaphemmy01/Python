@@ -24,6 +24,17 @@ public void numbersThatCanDivideOrSquare(){
 		assertEquals(2, result);
 
 		}
+@Test
+public void compareTwoString(){
+
+		//given
+		Crackers crackers = new Crackers();
+		//when
+		boolean result = crackers.equalStrings("love", "loev");
+		//assert
+		assertTrue(result);
+
+		}
 
 
 
