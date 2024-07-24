@@ -5,5 +5,7 @@ def equal_string (first_string, second_string):
 	else: 
 		return False
  
-equal_string('femi', 'fmei')
-equal_string('olve', 'love')
+result = qual_string('femi', 'fmei')
+print(result)
+result = equal_string('olve', 'love') 
+print(result)
