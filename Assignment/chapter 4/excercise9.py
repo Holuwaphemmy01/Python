@@ -3,5 +3,5 @@ def temperature_conversion(num):
         fahrenheit = (9/5) * num + 32
         return fahrenheit
 
-print(temperature_conversion(100))
+print(temperature_conversion(90))
     

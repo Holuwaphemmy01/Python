@@ -7,3 +7,4 @@ def argument_lists(*numbers):
 
 print(argument_lists(5, 6))
 print(argument_lists(2, 2, 6, 2))
+print(argument_lists(2, 4, 6, 8, 10))

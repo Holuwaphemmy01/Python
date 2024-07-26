@@ -4,6 +4,9 @@ def round_up_number(num):
     nearest_hundredths = round(num, 2)
     nearest_thousandths = round(num, 3)
     
-    return nearest_hundredths
+    return nearest_integer, nearest_tenths, nearest_hundredths, nearest_thousandths,
 
 print(round_up_number(13.56449))
+
+
+

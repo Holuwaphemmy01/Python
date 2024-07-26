@@ -7,7 +7,7 @@ frequency4 = 0
 frequency5 = 0
 frequency6 = 0
 
-for roll in range(6_000_000): 
+for roll in range(6000000): 
     face = random.randrange(1, 7)
     
     if face == 1:
@@ -32,4 +32,4 @@ print(f'{5:>4}{frequency5:>13}')
 print(f'{6:>4}{frequency6:>13}')
 
 
-##since a dice has 6 faces and each condition has been covered, thus, leads to no need of the else clause
+#since a dice has 6 faces and each condition has been covered, this leads to no need of the else clause
