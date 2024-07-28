@@ -2,7 +2,7 @@ def length_of_word(word):
 	counter = 0
 	for count in word:
 		counter += 1
-	return(counter)
+	return counter
 
 
 result = length_of_word("femi")
