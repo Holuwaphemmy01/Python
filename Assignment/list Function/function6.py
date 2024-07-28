@@ -1,4 +1,4 @@
-def odd_position(number_list):
+def total_addition(number_list):
 	length = len(number_list)   
 	addition = 0
 	for add in range(0, length - 1):
@@ -9,5 +9,5 @@ def odd_position(number_list):
 
 
 
-result = odd_position(number_list = [5, 6, 7, 68, 45, 34, 2,  67, 21])
+result = total_addition(number_list = [5, 6, 7, 68, 45, 34, 2,  67, 21])
 print(result)

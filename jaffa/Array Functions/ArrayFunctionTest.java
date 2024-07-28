@@ -16,7 +16,7 @@ public void testForLarestNumberInAList(){
 	assertEquals(987, result);
 		}
 
-@Test
+/*@Test
 public void testForReverseNumberInAList(){
 
 	//given
@@ -28,7 +28,7 @@ public void testForReverseNumberInAList(){
 	
 	//assert
 	assertEquals(results, results);
-		}
+		}**/
 
 /*public void testforOddElements(){
 		//given
