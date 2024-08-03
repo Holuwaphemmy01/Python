@@ -7,8 +7,6 @@ def reverse(number):
 	return result
 
 
-
-
 def is_palindrome(number):
 	value1 = number % 10
 	value2 = number // 10
@@ -20,5 +18,5 @@ def is_palindrome(number):
 		result = "False"
 	return result
 
-print(reverse(656))
+print(reverse(657))
 print(is_palindrome(656))
