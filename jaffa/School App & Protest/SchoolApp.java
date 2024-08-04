@@ -12,11 +12,12 @@ System.out.print("Enter total number of subject: ");
 int totalSubject = scanner.nextInt();
 
 
-
+ 
 int [][] student = new int [studentNumber][totalSubject];
 int [] total = new int [studentNumber];
+int [] newTotal =  total;
 double [] average = new double [studentNumber];
-
+int [] position = new int [studentNumber];
 
 for(int index = 0, counter = 1; index < studentNumber; index++, counter++){
 	int sum = 0; 
@@ -34,8 +35,21 @@ for(int index = 0, counter = 1; index < studentNumber; index++, counter++){
 					}
 		total[index] = sum;
 		average[index] = sum / totalSubject;
-
+		
 					}
+
+		 Arrays.sort(newTotal);
+
+		for(int index = 0; index < total.length; index++){
+
+			for(int element = 0; element < total.length; element++){
+				if(total[index] ==  newTotal[element])
+					position[index] = total.length - index;
+				
+							}
+
+					}  
+
 
 		System.out.print("STUDENT  ");
 		
@@ -52,14 +66,14 @@ for(int index = 0, counter = 1; index < studentNumber; index++, counter++){
 			for(int element = 0; element < totalSubject; element++){
 				System.out.printf("%10d", student[index][element]);
 						}
-				System.out.printf("%8d%9.2f", total[index], average[index]);
+				System.out.printf("%8d%9.2f%10d", total[index], average[index],position[index]);
 				System.out.println();
 
 					}
 
 
 
-
+		
 
 	
 
