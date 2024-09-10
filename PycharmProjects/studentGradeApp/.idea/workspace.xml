@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9144cbb5-8b62-4987-adf6-aceeb2345381" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2kwGE3ROtyVEDWo2bWM6InMc8sD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for account_test.AccountTest.executor": "Run",
+    "Python tests.Python tests for account_test.AccountTest.test_check_If_Account_Can_create_Account.executor": "Run",
+    "Python tests.Python tests for account_test.AccountTest.test_check_If_Account_Exists.executor": "Run",
+    "Python tests.Python tests for class_task_test.MyTestCase.executor": "Run",
+    "Python tests.Python tests for class_task_test.MyTestCase.test_that_count_number_of_characters.executor": "Run",
+    "Python tests.Python tests for class_task_test.MyTestCase.test_that_count_number_of_words.executor": "Run",
+    "Python tests.Python tests for countOccurrence.TestCountOccurrences.executor": "Run",
+    "Python tests.Python tests for countUpperCase.TestCountUpperCase.executor": "Run",
+    "Python tests.Python tests for removesSpecialCharacter.RemovesSpecialCharacterTest.executor": "Run",
+    "Python tests.Python tests for removesSpecialCharacter.RemovesSpecialCharacterTest.test_that_function_exist.executor": "Run",
+    "Python tests.Python tests for removesSpecialCharacter.RemovesSpecialCharacterTest.test_that_removes_special_character.executor": "Run",
+    "Python tests.Python tests for stack_test.StackTests.executor": "Run",
+    "Python tests.Python tests for stack_test.StackTests.test_that_Stack_is_empty.executor": "Run",
+    "Python tests.Python tests for stack_test.StackTests.test_that_Stack_is_not_empty.executor": "Run",
+    "Python tests.Python tests for stack_test.StackTests.test_that_pop_when_stack_is_empty.executor": "Run",
+    "Python tests.Python tests for stack_test.StackTests.test_that_push_X_and_pop_X.executor": "Run",
+    "Python tests.Python tests for stack_test.StackTests.test_that_push_and_pop_values.executor": "Run",
+    "Python tests.Python tests for stack_test.StackTests.test_that_stack_can_push_values.executor": "Run",
+    "Python tests.Python tests for stack_test.StackTests.test_that_stack_can_store_values.executor": "Run",
+    "Python tests.Python tests for stack_test.StackTests.test_that_stack_is_not_empty.executor": "Run",
+    "Python tests.Python tests for swapTest.TestStringMethods.executor": "Run",
+    "Python tests.Python tests for swap_test.TestStringMethods.executor": "Run",
+    "Python tests.Python tests for swap_test.TestStringMethods.test_that_does_not_accept_any_arguments_other_than_two.executor": "Run",
+    "Python tests.Python tests for swap_test.TestStringMethods.test_that_swap_accept_two_arguments.executor": "Run",
+    "Python tests.Python tests for swap_test.TestStringMethods.test_that_swap_two_arguments_and_return_one.executor": "Run",
+    "Python tests.Python tests in class_task_test.py.executor": "Run",
+    "Python tests.Python tests in countOccurrence.py.executor": "Run",
+    "Python tests.Python tests in countUpperCase.py.executor": "Run",
+    "Python tests.Python tests in removesSpecialCharacter.py.executor": "Run",
+    "Python.class_task.executor": "Run",
+    "Python.dictionary.executor": "Run",
+    "Python.function_file.executor": "Run",
+    "Python.schoolApp.executor": "Run",
+    "Python.schoolAppMain.executor": "Run",
+    "Python.stringSwap.executor": "Run",
+    "Python.studentGradeMain.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for countUpperCase.TestCountUpperCase">
+    <configuration name="Python tests for countOccurrence.TestCountOccurrences" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="studentGradeApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;countOccurrence.TestCountOccurrences&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for countUpperCase.TestCountUpperCase" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="studentGradeApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;countUpperCase.TestCountUpperCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for removesSpecialCharacter.RemovesSpecialCharacterTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="studentGradeApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;removesSpecialCharacter.RemovesSpecialCharacterTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for removesSpecialCharacter.RemovesSpecialCharacterTest.test_that_function_exist" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="studentGradeApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;removesSpecialCharacter.RemovesSpecialCharacterTest.test_that_function_exist&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for removesSpecialCharacter.RemovesSpecialCharacterTest.test_that_removes_special_character" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="studentGradeApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;removesSpecialCharacter.RemovesSpecialCharacterTest.test_that_removes_special_character&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.swapTest.TestStringMethods" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="studentGradeApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.swapTest.TestStringMethods&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for countUpperCase.TestCountUpperCase" />
+        <item itemvalue="Python tests.Python tests for countOccurrence.TestCountOccurrences" />
+        <item itemvalue="Python tests.Python tests for removesSpecialCharacter.RemovesSpecialCharacterTest.test_that_removes_special_character" />
+        <item itemvalue="Python tests.Python tests for removesSpecialCharacter.RemovesSpecialCharacterTest" />
+        <item itemvalue="Python tests.Python tests for removesSpecialCharacter.RemovesSpecialCharacterTest.test_that_function_exist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
+        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9144cbb5-8b62-4987-adf6-aceeb2345381" name="Changes" comment="" />
+      <created>1724187110819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724187110819</updated>
+      <workItem from="1724187123998" duration="38616000" />
+      <workItem from="1724763136119" duration="3950000" />
+      <workItem from="1725007213475" duration="5000" />
+      <workItem from="1725007231679" duration="1885000" />
+      <workItem from="1725045180561" duration="23000" />
+      <workItem from="1725045235378" duration="744000" />
+      <workItem from="1725046015985" duration="7487000" />
+      <workItem from="1725616005325" duration="15689000" />
+      <workItem from="1725691452557" duration="37238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/extensions/studentGradeMain.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/swapTest.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/studentGradeApp$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1724769086910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/extensions" />
+    <SUITE FILE_PATH="coverage/studentGradeApp$.coverage" NAME=" Coverage Results" MODIFIED="1725916734931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/studentGradeApp$studentGradeMain.coverage" NAME="studentGradeMain Coverage Results" MODIFIED="1724401562801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/extensions" />
+    <SUITE FILE_PATH="coverage/studentGradeApp$schoolApp.coverage" NAME="schoolApp Coverage Results" MODIFIED="1724293998693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database" />
+    <SUITE FILE_PATH="coverage/studentGradeApp$function_file.coverage" NAME="function_file Coverage Results" MODIFIED="1724261359897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/extensions" />
+    <SUITE FILE_PATH="coverage/studentGradeApp$stringSwap.coverage" NAME="stringSwap Coverage Results" MODIFIED="1725889892629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/studentGradeApp$schoolAppMain.coverage" NAME="schoolAppMain Coverage Results" MODIFIED="1724379662262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database" />
+    <SUITE FILE_PATH="coverage/studentGradeApp$class_task.coverage" NAME="class_task Coverage Results" MODIFIED="1725734731887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+  </component>
+</project>
